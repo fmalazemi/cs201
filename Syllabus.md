@@ -50,62 +50,49 @@ By the end of the course, students will:
 - Additional Resources: [Discrete Math Course](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&si=ZNVzVKpKZAg6-g3x), [Strings and Languages](https://www.youtube.com/watch?v=afLFTsNenjE)
 - **Assignment 1**
 
-### Week 2: Analysis of Recursive Algorithms
-- Recurrence Relation review.
-- Proof by induction.
-- Analysis of recursive algorithms
-- Tower of Hanoi
-- Master method
-- Addtional Resources: [Recurrance Relations](https://youtu.be/4V30R3I1vLI?si=khbXgLpdLaYex6Ir), [How to solve Recursive Problems](https://youtu.be/ngCos392W4w?si=KFCSZjyjiT56WSoU)
+### Week 2-4: Regular Languages
+
+- Finate-State machines (Finite Automata)
+- Non-Deterministic Finite-State machines
+- Regular Expressions
+- Non-regular languages (Pumpming Lemma)
+- Addtional Resources: 
 - **Assignment 2**
 
-### Week 3-4: Searching and Sorting (in Arrays)
-- Insertion sort and selection sort
-- Dvide and Conqure sorting algorithms Merge Sort, and QuickSort 
-- Linear Search and binary search
-- Additional Resources: [10 Sorting Algorithms Easily Explained](https://youtu.be/rbbTd-gkajw?si=akdzv8tOGcXmFRmN)
+### Week 5-7: Context free languages
+- Context free grammar
+- Push-down automata
+- Non-Context free languages (Pumping Lemma)
+- Additional Resources:
 - **Assignment 3**
 
-### Week 5: Basic data structures (LinkedLists, Stacks, and Queues)
-- Basic data structures operations and analysis. 
-- Basic data structures applications.
-- Additional Resources: [What is data structures](https://youtu.be/VAt2mR7gY0k?si=picHN-J9fpG6NhYo)
+### Week 8-9: Church-Turing Thesis
+- Turing Machine
+- Variant of Turing Machines
+- Definition of Algorithms
+- Additional Resources:
 - **Assignment 4**
 
 ### Midterm 1
 
-### Week 6: Tree data structures
-- Binary Search Trees
-- AVL Trees
-- B-Trees
+### Week 10-11: Decidability
+- Decidable Languages
+- Undecidability and The Halting Problem
+- Additional Resources:
 - **Assignment 5**
 
-### Week 7: Heaps and Priority Queues
-- Heap structure and properties
-- Heap sort
-- Priority queues and their applications
+### Week 12: Reducibility
+- Reducibility approach
+- Undecidable Problems reduction
+- Additional Resources: 
 - **Assignment 6**
 
-### Week 8: Hashing
-- Hash tables and hash functions
-- Collision resolution Algorithms
-- Applications of hashing
+### Week 13: Computational complexity classes
+- Class P
+- Class NP
+- Class NP-Complete, NP-Hard
+- Additional Resources: [PvsNP](https://www.youtube.com/watch?v=YX40hbAHx3s), [P, NP, NP-completeness, Reductions](https://www.youtube.com/watch?v=eHZifpgyH_4) 
 - **Assignment 7**
-
-### Midterm 2
-
-### Week 9-11: Graphs
-- Graph terminology and representations
-- Depth-First Search (DFS) and Breadth-First Search (BFS)
-- Shortest path algorithms (Dijkstra Algorithms)
-- Minimum Spanning trees
-- Additional Resources ([BFS](https://youtu.be/xlVX7dXLS64?si=ZhikFPIyHZOFC-UW), [DFS](https://youtu.be/PMMc4VsIacU?si=sHv-5iL12pR2iXgN), [Dijkstra algorithms](https://www.youtube.com/watch?v=bZkzH5x0SKU), [Minimum Spanning Trees with Prim's and Kruskal's Algorithms](https://www.youtube.com/watch?v=uHOrPJ26A-o))
-- **Assignments 8, 9**
-
-
-### Week 11-13: Advanced Topics and final review
-- Advanced algorithms 
-- Final review session
 
 ## Grading
 - **Assignments**: 5%
@@ -120,11 +107,7 @@ By the end of the course, students will:
 - **Attendance is Mandatory**.
 
 ## Additional Resources
-- *The C++ Programming Language* by Bjarne Stroustrup
-- cppreference.com
-- Online coding platforms (e.g. LeetCode.com, HackerRank.com) for practice problems
-- Geeksforgeeks.com, W3schools.com
-- Youtube channels ([CSDojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H), [freebootCamp](https://youtu.be/8hly31xKli0?si=Gc8A-Y-LXZxNS3Zn), [Programming with Mosh](https://youtu.be/BBpAmxU_NQo?si=9LrCw5KssoFNJS5t))
+- Youtube channels ([TrevTutor](https://youtu.be/afLFTsNenjE?si=8ktAOvjTTGL-VLCI), [Michael Sipser Lectures](https://youtu.be/9syvZr-9xwk?si=z2irFM-mOD_LVrwK), [Easy Theory Channel](https://www.youtube.com/@EasyTheory/playlists)
 
 ---
 
