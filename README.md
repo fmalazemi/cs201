@@ -6,6 +6,7 @@
 ### Course Material
 - [Syllabus](Syllabus.md)
 - [Class Notes](Class_notes)
+- [Assignments](Assignments)
 
 ### Important Dates: 
 - Midterm 1: 11-Mar-2025 
