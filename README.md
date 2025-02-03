@@ -5,3 +5,8 @@
 
 ### Course Material
 - [Syllabus](Syllabus.md)
+
+### Important Dates: 
+- Midterm 1 
+- Midterm 2
+- Final Exam 21-May-2025 (11:00am - 1:00pm) 
