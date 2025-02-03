@@ -59,12 +59,16 @@ By the end of the course, students will:
 - Addtional Resources: 
 - **Assignment 2**
 
+### Midterm 1
+
 ### Week 5-7: Context free languages
 - Context free grammar
 - Push-down automata
 - Non-Context free languages (Pumping Lemma)
 - Additional Resources:
 - **Assignment 3**
+
+### Midterm 2
 
 ### Week 8-9: Church-Turing Thesis
 - Turing Machine
@@ -73,7 +77,6 @@ By the end of the course, students will:
 - Additional Resources:
 - **Assignment 4**
 
-### Midterm 1
 
 ### Week 10-11: Decidability
 - Decidable Languages
