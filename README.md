@@ -5,7 +5,7 @@
 
 ### Course Material
 - [Syllabus](Syllabus.md)
-- [Class Notes](class_notes/)
+- [Class Notes](class_notes)
 
 ### Important Dates: 
 - Midterm 1 
