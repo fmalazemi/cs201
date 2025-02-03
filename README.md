@@ -2,3 +2,6 @@
 
 ### Announcements:
 - 
+
+### Course Material
+- [Syllabus](syllabus.md)
