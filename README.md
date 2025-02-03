@@ -9,9 +9,9 @@ This course studies foundational principles that underpin all computational proc
 
 
 ### Announcements:
-- 
 
-### Course Material
+
+### Course Materials:
 - [Syllabus](Syllabus.md)
 - [Class Notes](Class_notes)
 - [Assignments](Assignments)
