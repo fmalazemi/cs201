@@ -4,4 +4,4 @@
 - 
 
 ### Course Material
-- [Syllabus](syllabus.md)
+- [Syllabus](Syllabus.md)
