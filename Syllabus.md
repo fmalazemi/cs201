@@ -1,4 +1,4 @@
-# CS201 Data Structure and Algorithm Analysis, Spring 2024
+# CS211 Theory of Computation, Spring 2024
 
 - [Course Information](#Course-Information)
 - [Instructor and TA](#Instructor-and-TA)
@@ -14,7 +14,7 @@
 
 
 ## Course Information
-- **Course Number**: CS201
+- **Course Number**: CS211
 - **Credits**: 3
 - **Lecture Room**: S02-C2-173
 
@@ -22,12 +22,13 @@
 - **Instructor**: Fawaz Alazemi
 - **Office Hours**: Sun-Tue-Thu 3:00pm - 4:00pm (or by appointment)
 - **Office No.**: S02-A2-150
-- **TA.**: Sulaiman Alkhazi 
+- **TA.**: Asmaa AlOtaibi 
 - **TA. Office Hours**: TBA
-- **TA. Office No.**: N00-B2-002
+- **TA. Office No.**: N00-B1-221
 
 ## Course Description
-The course deepens and widens the fundamental concepts of abstract data structures and algorithms. It introduces to complexity analysis and  basic data structure, and algorithms. The course covers the topic of Complexity analysis, arrays, lists, stacks, queues, trees, heaps, hashing, and graphs. 
+The course introduces the theoretical foundations of computing through the study of mathematical models of computing machines and computational problems. The course considers several models of computation with the intent of developing a theoretical and intuitive understanding of computability. Topics include finite state automata and regular languages, pushdown automata and context-free languages, Turing machines and recursively enumerable languages, decidable and undecidable problems. The course ends with an introduction to computational complexity.
+
 
 ## Course Objectives
 By the end of the course, students will:
@@ -36,20 +37,17 @@ By the end of the course, students will:
 - Apply data structures to solve real-world problems.
 
 ## Prerequisites
-- CS142
-- CS111 **(Highly Recommended)**
-
+- CS111, CS201
 
 ## Textbooks
-- *Data Structures and Algorithm Analysis in C++, Mark A. Weiss* (available in KU Bookstore.)
-- *Algorithms Illuminated, Tim Roughgarden*. (Parts 1, 2, 3.)  
+- *An Introduction to Formal Languages and Automata, Peter Linz* (available in KU Bookstore.)
+- *Introduction to the theory of computation, Michael Sipser*.
 
 ## Schedule
 
-### Week 1: Introduction Complexity Analysis
-- introduction to asymptotic analysis
-- Big O notation and time and space complexity analysis of algorithms
-- Additional Resources: [Big-O Explained](https://youtu.be/Q_1M2JaijjQ?si=FeHLbNm7nq6C0u2q), [What is an Algorithm](https://www.youtube.com/watch?v=ZnBF2GeAKbo)
+### Week 1: Basic Math Review 
+- Logic, Axioms, Proof techniques, Sets, Relations, Graphs, Sequences, Functions, Strings and languages. 
+- Additional Resources: [Discrete Math Course](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&si=ZNVzVKpKZAg6-g3x), [Strings and Languages](https://www.youtube.com/watch?v=afLFTsNenjE)
 - **Assignment 1**
 
 ### Week 2: Analysis of Recursive Algorithms
