@@ -4,7 +4,7 @@
   <img src="Complexity-classes-diagram.jpg" alt="Language Classes" width="200" height="200">
 </p>
 
-This course studies foundational principles that underpin all computational processes we use everyday. It explores the limitations and capabilities of algorithms, formal languages, and abstract machines. This will help us to understand what can and can not be computed. By learning these principles, **YOU** will gain deep insights into algorithm design, complexity analysis, and problem solvability. 
+This course studies foundational principles that underpin all computational steps we use everyday. It explores the limitations and capabilities of algorithms, formal languages, and abstract machines. This will help us to understand what can and can not be computed. By learning these principles, **YOU** will gain deep insights into algorithm design, complexity analysis, and problem solvability. 
 
 
 
